@@ -47,12 +47,12 @@ ul {
 }
 
 .secondaryButton {
-  background-color: #66d8f5;
+  background-color: #45a5bd;
   color: white;
 }
 
 .secondaryButton:hover {
-  box-shadow: 1px 1px rgb(119, 229, 233);
+  box-shadow: 1px 1px rgb(96, 176, 179);
 }
 
 .buscar {
